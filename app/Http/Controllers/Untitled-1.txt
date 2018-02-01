@@ -1,0 +1,233 @@
+[
+{
+"date": "2018-01-16 00:00:00",
+"scheme_id": 19,
+"units": 44.228,
+"nav": 228.1,
+"scheme_name": "Principal Tax Savings Fund - Regular Plan Growth"
+},
+{
+"date": "2018-01-18 00:00:00",
+"scheme_id": 19,
+"units": 44.228,
+"nav": 226.86,
+"scheme_name": "Principal Tax Savings Fund - Regular Plan Growth"
+},
+{
+"date": "2018-01-17 00:00:00",
+"scheme_id": 19,
+"units": 44.228,
+"nav": 229.89,
+"scheme_name": "Principal Tax Savings Fund - Regular Plan Growth"
+},
+{
+"date": "2018-01-17 00:00:00",
+"scheme_id": 15,
+"units": 46.233,
+"nav": 268.4519,
+"scheme_name": "ICICI PRUDENTIAL DYNAMIC PLAN - GROWTH"
+},
+{
+"date": "2018-01-16 00:00:00",
+"scheme_id": 15,
+"units": 46.233,
+"nav": 266.3864,
+"scheme_name": "ICICI PRUDENTIAL DYNAMIC PLAN - GROWTH"
+},
+{
+"date": "2018-01-18 00:00:00",
+"scheme_id": 15,
+"units": 46.233,
+"nav": 267.6402,
+"scheme_name": "ICICI PRUDENTIAL DYNAMIC PLAN - GROWTH"
+},
+{
+"date": "2018-01-18 00:00:00",
+"scheme_id": 14,
+"units": 615.385,
+"nav": 48.837,
+"scheme_name": "DSP BLACKROCK TAX SAVER FUND - GROWTH"
+},
+{
+"date": "2018-01-17 00:00:00",
+"scheme_id": 14,
+"units": 615.385,
+"nav": 49.206,
+"scheme_name": "DSP BLACKROCK TAX SAVER FUND - GROWTH"
+},
+{
+"date": "2018-01-16 00:00:00",
+"scheme_id": 14,
+"units": 615.385,
+"nav": 48.724,
+"scheme_name": "DSP BLACKROCK TAX SAVER FUND - GROWTH"
+},
+{
+"date": "2018-01-17 00:00:00",
+"scheme_id": 12,
+"units": 219.855,
+"nav": 609.97,
+"scheme_name": "Franklin India PRIMA PLUS GROWTH"
+},
+{
+"date": "2018-01-16 00:00:00",
+"scheme_id": 12,
+"units": 219.855,
+"nav": 605.6991,
+"scheme_name": "Franklin India PRIMA PLUS GROWTH"
+},
+{
+"date": "2018-01-18 00:00:00",
+"scheme_id": 12,
+"units": 219.855,
+"nav": 608.2863,
+"scheme_name": "Franklin India PRIMA PLUS GROWTH"
+},
+{
+"date": "2018-01-17 00:00:00",
+"scheme_id": 11,
+"units": 5005.454,
+"nav": 63.9622,
+"scheme_name": "Franklin India Smaller Companies Fund GROWTH"
+},
+{
+"date": "2018-01-16 00:00:00",
+"scheme_id": 11,
+"units": 5005.454,
+"nav": 63.8745,
+"scheme_name": "Franklin India Smaller Companies Fund GROWTH"
+},
+{
+"date": "2018-01-18 00:00:00",
+"scheme_id": 11,
+"units": 5005.454,
+"nav": 63.3367,
+"scheme_name": "Franklin India Smaller Companies Fund GROWTH"
+},
+{
+"date": "2018-01-16 00:00:00",
+"scheme_id": 10,
+"units": 89.512,
+"nav": 565.3454,
+"scheme_name": "Franklin India TAXSHIELD GROWTH"
+},
+{
+"date": "2018-01-18 00:00:00",
+"scheme_id": 10,
+"units": 89.512,
+"nav": 566.2638,
+"scheme_name": "Franklin India TAXSHIELD GROWTH"
+},
+{
+"date": "2018-01-17 00:00:00",
+"scheme_id": 10,
+"units": 89.512,
+"nav": 568.8178,
+"scheme_name": "Franklin India TAXSHIELD GROWTH"
+},
+{
+"date": "2018-01-16 00:00:00",
+"scheme_id": 9,
+"units": 303.192,
+"nav": 49.1941,
+"scheme_name": "Franklin India TAXSHIELD DIVIDEND"
+},
+{
+"date": "2018-01-18 00:00:00",
+"scheme_id": 9,
+"units": 303.192,
+"nav": 49.274,
+"scheme_name": "Franklin India TAXSHIELD DIVIDEND"
+},
+{
+"date": "2018-01-17 00:00:00",
+"scheme_id": 9,
+"units": 303.192,
+"nav": 49.4963,
+"scheme_name": "Franklin India TAXSHIELD DIVIDEND"
+},
+{
+"date": "2018-01-18 00:00:00",
+"scheme_id": 7,
+"units": 272.299,
+"nav": 152.0423,
+"scheme_name": "SBI MAGNUM TAX GAIN SCHEME - REGULAR PLAN - GROWTH"
+},
+{
+"date": "2018-01-17 00:00:00",
+"scheme_id": 7,
+"units": 272.299,
+"nav": 153.0961,
+"scheme_name": "SBI MAGNUM TAX GAIN SCHEME - REGULAR PLAN - GROWTH"
+},
+{
+"date": "2018-01-16 00:00:00",
+"scheme_id": 7,
+"units": 272.299,
+"nav": 151.5714,
+"scheme_name": "SBI MAGNUM TAX GAIN SCHEME - REGULAR PLAN - GROWTH"
+},
+{
+"date": "2018-01-16 00:00:00",
+"scheme_id": 5,
+"units": 10846.31,
+"nav": 39.044,
+"scheme_name": "SBI BLUE CHIP FUND - REGULAR PLAN - GROWTH"
+},
+{
+"date": "2018-01-18 00:00:00",
+"scheme_id": 5,
+"units": 10846.31,
+"nav": 39.2607,
+"scheme_name": "SBI BLUE CHIP FUND - REGULAR PLAN - GROWTH"
+},
+{
+"date": "2018-01-17 00:00:00",
+"scheme_id": 5,
+"units": 10846.31,
+"nav": 39.3345,
+"scheme_name": "SBI BLUE CHIP FUND - REGULAR PLAN - GROWTH"
+},
+{
+"date": "2018-01-17 00:00:00",
+"scheme_id": 3,
+"units": 8533.756,
+"nav": 60.575,
+"scheme_name": "HDFC MID-CAP OPPORTUNITIES FUND - REGULAR PLAN - GROWTH"
+},
+{
+"date": "2018-01-16 00:00:00",
+"scheme_id": 3,
+"units": 8533.756,
+"nav": 60.357,
+"scheme_name": "HDFC MID-CAP OPPORTUNITIES FUND - REGULAR PLAN - GROWTH"
+},
+{
+"date": "2018-01-18 00:00:00",
+"scheme_id": 3,
+"units": 8533.756,
+"nav": 59.614,
+"scheme_name": "HDFC MID-CAP OPPORTUNITIES FUND - REGULAR PLAN - GROWTH"
+},
+{
+"date": "2018-01-16 00:00:00",
+"scheme_id": 1,
+"units": 2183.651,
+"nav": 224.34,
+"scheme_name": "ADITYA  BIRLA SUN LIFE FRONTLINE EQUITY FUND - GROWTH"
+},
+{
+"date": "2018-01-18 00:00:00",
+"scheme_id": 1,
+"units": 2183.651,
+"nav": 225.27,
+"scheme_name": "ADITYA  BIRLA SUN LIFE FRONTLINE EQUITY FUND - GROWTH"
+},
+{
+"date": "2018-01-17 00:00:00",
+"scheme_id": 1,
+"units": 2183.651,
+"nav": 225.94,
+"scheme_name": "ADITYA  BIRLA SUN LIFE FRONTLINE EQUITY FUND - GROWTH"
+}
+]
